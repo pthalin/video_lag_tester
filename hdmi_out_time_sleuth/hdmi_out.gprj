@@ -1,0 +1,42 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NSR-4C" pn="GW1NSR-LV4CQN48PC6/I5">gw1nsr4c-000</Device>
+    <FileList>
+        <File path="src/fifo_hs/fifo_hs.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_dcs/gowin_dcs.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_pllvr_pll1/pll1.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_pllvr_pll2/pll2.v" type="file.verilog" enable="1"/>
+        <File path="src/hdmi_device.v" type="file.verilog" enable="1"/>
+        <File path="src/testpattern.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/char_rom/char_rom.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/char_rom/lagdisplay.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/char_rom/resolution.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/config/video_modes.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/configuration.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/lagtester.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/measure.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/misc/Binary_to_BCD.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/misc/Flag_CrossDomain.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/misc/bcdcounter.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/misc/data_cross.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/misc/edge_detect.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/sensor.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/typedef.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/video.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/video/textgen.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/video/timingsgen.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/video/video_config.v" type="file.verilog" enable="1"/>
+        <File path="src/time_sleuth/video/videogen.v" type="file.verilog" enable="1"/>
+        <File path="src/tmds_encoder.v" type="file.verilog" enable="1"/>
+        <File path="src/video_clock.v" type="file.verilog" enable="1"/>
+        <File path="src/video_timing.vh" type="file.verilog" enable="1"/>
+        <File path="src/video_top.v" type="file.verilog" enable="0"/>
+        <File path="src/dk_video.cst" type="file.cst" enable="1"/>
+        <File path="src/dk_video.sdc" type="file.sdc" enable="1"/>
+        <File path="src/time_sleuth/char_rom/font/8x16-font-digits.v" type="file.other" enable="1"/>
+        <File path="src/time_sleuth/defines.v" type="file.other" enable="1"/>
+    </FileList>
+</Project>

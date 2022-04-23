@@ -1,0 +1,35 @@
+[General]
+ipc_version=4
+file=fifo_hs
+module=FIFO_HS_Top
+target_device=gw1nsr4c-000
+type=fifo_hs
+version=1.0
+
+[Config]
+AlmostEmptyFlag=false
+AlmostEmptyFlagItem=Empty_Single Threshold Constant Parameter
+AlmostFullFlag=false
+AlmostFullFlagItem=Full_Single Threshold Constant Parameter
+BSRAM=false
+ControlledByRdEn=false
+ECCSelected=false
+EmptyClear=1
+EmptySet=1
+EnReset=false
+FirstWordFallThrough=true
+FullClear=1
+FullSet=1
+LANG=0
+OutputRegistersSelected=false
+REG=true
+ReadDataNum=false
+ReadDataWidth=8
+ReadDepth=2
+ResetSynchronization=false
+SSRAM=false
+StandardFIFO=false
+Synthesis_tool=GowinSynthesis
+WriteDataNum=false
+WriteDataWidth=8
+WriteDepth=2

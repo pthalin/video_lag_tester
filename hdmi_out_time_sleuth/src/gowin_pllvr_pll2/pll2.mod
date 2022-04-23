@@ -1,0 +1,33 @@
+-series GW1NSR
+-device GW1NSR-4C
+-package QFN48P
+-part_number GW1NSR-LV4CQN48PC6/I5
+
+
+-mod_name pll2
+-file_name pll2
+-path /home/patrik/projects/tang_nano/4k_projects/hdmi_out_switch_res/src/gowin_pllvr_dyn/gowin_pllvr/
+-type PLL
+-pllvr true
+-file_type vlg
+-dev_type GW1NSR-4C
+-dyn_idiv_sel true
+-idiv_sel 2
+-dyn_fbdiv_sel true
+-fbdiv_sel 1
+-dyn_odiv_sel true
+-odiv_sel 4
+-dyn_da_en true
+-rst_sig false
+-rst_sig_p false
+-pll_reg false
+-fclkin 325
+-clkfb_sel 0
+-en_lock true
+-clkout_bypass false
+-clkout_ft_dir 1
+-en_clkoutp false
+-clkoutp_bypass false
+-en_clkoutd false
+-clkoutd_bypass false
+-en_clkoutd3 false

@@ -1,0 +1,12 @@
+[General]
+ipc_version=4
+file=gowin_dcs
+module=Gowin_DCS
+target_device=gw1nsr4c-000
+type=clock_dcs
+version=1.0
+
+[Config]
+DCS_Mode=RISING
+Glitchless_Mode=true
+Language=0

@@ -1,0 +1,31 @@
+<?xml version="1" encoding="UTF-8"?>
+<GAO_CONFIG>
+    <Version>3.0</Version>
+    <Mode>Lite</Mode>
+    <AoCore_Lite index="0" sample_clock="video_clock_inst/pll2_inst/clkoutp_o" trig_type="0" capture_amount="1024" implemention="0" input_register_enabled="0" capture_init_data_enabled="0" module_name="lagtester">
+        <SignalList>
+            <Bus name="video/counterX_Z[8:0]">
+                <Signal>video/counterX_Z[8]</Signal>
+                <Signal>video/counterX_Z[7]</Signal>
+                <Signal>video/counterX_Z[6]</Signal>
+                <Signal>video/counterX_Z[5]</Signal>
+                <Signal>video/counterX_Z[4]</Signal>
+                <Signal>video/counterX_Z[3]</Signal>
+                <Signal>video/counterX_Z[2]</Signal>
+                <Signal>video/counterX_Z[1]</Signal>
+                <Signal>video/counterX_Z[0]</Signal>
+            </Bus>
+            <Bus name="video/counterY_Z[7:0]">
+                <Signal>video/counterY_Z[7]</Signal>
+                <Signal>video/counterY_Z[6]</Signal>
+                <Signal>video/counterY_Z[5]</Signal>
+                <Signal>video/counterY_Z[4]</Signal>
+                <Signal>video/counterY_Z[3]</Signal>
+                <Signal>video/counterY_Z[2]</Signal>
+                <Signal>video/counterY_Z[1]</Signal>
+                <Signal>video/counterY_Z[0]</Signal>
+            </Bus>
+        </SignalList>
+    </AoCore_Lite>
+    <GAO_ID>0100110100111010</GAO_ID>
+</GAO_CONFIG>
