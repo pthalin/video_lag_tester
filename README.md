@@ -27,7 +27,7 @@ openFPGALoader -b tangnano4k -f firmware\\video_lag_tester_720p60.fs
 Double click on "load_720p.cmd"
 
 
-## Build
+## Build Firmware
 Use: Gowin FPGA Designer 1.9.8.03 Education
 
 ## Hardware
