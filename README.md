@@ -1,8 +1,12 @@
 # Video Lag Tester
 
-Based on source code for [Time sleuth](https://github.com/chriz2600/time-sleuth)
+A Video Lag Tester is a device that measures the delay from when a signal is sent to a displays input until it is shown on the dispay. In most cases this is an important parameters for a good gaming experince.
 
-Created by by Patrik's Retro Tech. For updates follow me on:\
+It is intended to be a low cost solution for video signals up to 720p 60 Hz. The cost to build it your self is ~$25 or less.
+
+It is based on source code for [Time sleuth](https://github.com/chriz2600/time-sleuth)
+
+This project is created by **Patrik's Retro Tech**. For updates and similar projects follow me on:\
 [Instagram](https://www.instagram.com/patriksretrotech/)\
 [YouTube](https://www.youtube.com/channel/UCaFWrgS4kNwspYCvaff0Wjg)\
 [Twitter](https://twitter.com/patriksretrotec/)\
