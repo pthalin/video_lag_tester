@@ -170,7 +170,7 @@ end
 
  //assign LED = cnt_vs[6];
 
- assign LED = ~sensor_out;
+ assign LED = sensor_out;
  //   assign TFP410_reset = 1'b1;
 
 endmodule
