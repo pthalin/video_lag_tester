@@ -4,13 +4,20 @@ A Video Lag Tester is a device that measures the delay from when a signal is sen
 
 It is intended to be a low cost solution for video signals up to 720p 60 Hz. The cost for building it your self is ~$25 or less.
 
-It is based on source code of [Time sleuth](https://github.com/chriz2600/time-sleuth)
 
 This project is created by **Patrik's Retro Tech**. For updates and similar projects follow me on:\
 [Instagram](https://www.instagram.com/patriksretrotech/)\
 [YouTube](https://www.youtube.com/channel/UCaFWrgS4kNwspYCvaff0Wjg)\
 [Twitter](https://twitter.com/patriksretrotec/)\
 [Facebook](https://facebook.com/patriksretrotech)
+
+## Hardware
+Sipeed Tang Nano 4k. Official reseller [Sipeed`s AliExpress Store *](https://s.click.aliexpress.com/e/_AlbHdD ).\
+Phototransistor for visable light with clear case.\
+NPN Transistor e.g. BC547.\
+1k and 100k Resistor.
+
+\* I get commission if you buy using this link. It helps me to provide stuff like this. Thanks for your support!
 
 ![](images/device.jpg)
 
@@ -30,11 +37,7 @@ Double click on "load_720p.cmd"
 ## Build Firmware
 Use: Gowin FPGA Designer 1.9.8.03 Education
 
-## Hardware
-Sipeed Tang Nano 4k. Official reseller [Sipeed`s AliExpress Store](https://sipeed.aliexpress.com/store/911876460).\
-Phototransistor for visable light with clear case.\
-NPN Transistor e.g. BC547.\
-1k and 100k Resistor.
+Firmware is based on source code of [Time sleuth](https://github.com/chriz2600/time-sleuth)
 
 ## Schematic and how to build
 ![](images/schematics.jpg)
