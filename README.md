@@ -13,8 +13,8 @@ This project is created by **Patrik's Retro Tech**. For updates and similar proj
 
 ## Hardware
 Sipeed Tang Nano 4k. Official reseller [Sipeed`s AliExpress Store *](https://s.click.aliexpress.com/e/_AlbHdD ).\
-Phototransistor for visable light with clear case.\
-NPN Transistor e.g. BC547.\
+Phototransistor for visable light with clear case. e.g. PT331C\
+NPN Transistor. e.g. BC547.\
 1k and 100k Resistor.
 
 \* I get commission if you buy using this link. It helps me to provide stuff like this. Thanks for your support!
