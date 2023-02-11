@@ -18,7 +18,7 @@ NPN Transistor. e.g. BC547.\
 You can build it as described below or use the [PCB by Zwenergy](https://github.com/zwenergy/Tang-Nano-4k-Video-Lag-Tester-Mini-Shield)
 
 ## Case
-There is a [case designed by john3d](https://www.printables.com/model/395088-case-for-video-lag-tester-mini-shield-by-zwenergy) that can be 3D Printed.
+There is a [case designed by john3d](https://www.printables.com/model/395088-case-for-video-lag-tester-mini-shield-by-zwenergy) that can be 3D Printed. It fits with the PCB by Zwenergy.
 
 ## Flash firmware
 Download and unpack the [release zip file](https://github.com/pthalin/video_lag_tester/releases/latest/). Plug in a USB-C cable to the board. No driver needs to be installed.
