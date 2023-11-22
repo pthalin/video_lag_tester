@@ -4,6 +4,7 @@ A Video Lag Tester is a device that measures the delay from when a signal is sen
 
 It is intended to be a low cost solution for video signals up to 720p 60 Hz. The cost for building it your self is ~$25 or less.
 
+Donation using [Ko-Fi](https://ko-fi.com/patriksretrotech) or [PayPal](https://www.paypal.com/donate/?business=UCTJFD6L7UYFL&no_recurring=0&item_name=Please+support+me%21&currency_code=SEK) are highly appreciated!
 
 ## Hardware
 Sipeed Tang Nano 4k. Official reseller [Sipeed`s AliExpress Store *](https://s.click.aliexpress.com/e/_AlbHdD ).\
